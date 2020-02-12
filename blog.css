@@ -1,0 +1,34 @@
+body {
+    margin: 5% 10%;
+
+}
+
+.top > div{
+    display: inline-block;
+
+}
+
+.topL > h1{
+    display: inline;
+    /* box-align: right; */
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+
+.topL > h1{
+    display: inherit;
+}
+
+.topR{
+    float: right;
+    margin-top: 40px;
+}
+
+
+.topR > h2{
+    display: inline;
+  
+    font-family: sans-serif;
+    font-weight: 200;
+}
